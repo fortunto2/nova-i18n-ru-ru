@@ -1,6 +1,6 @@
 Package.describe({
   name: "lifefilm:nova-i18n-ru-ru",
-  summary: "Telescope i18n package (ru)",
+  summary: "Telescope i18n package (ru_RU)",
   version: "0.26.4-nova",
   git: "https://github.com/fortunto2/nova-i18n-ru-ru.git"
 });
